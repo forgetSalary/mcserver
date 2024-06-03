@@ -1,0 +1,44 @@
+[03θών.2024 00:01:40.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MosyaForever has made the advancement [Diamonds!]
+[03θών.2024 00:06:04.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-61, y=67, z=-438} BlockPos{x=-48, y=52, z=-442}
+[03θών.2024 00:06:04.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-61, y=67, z=-438} BlockPos{x=-48, y=52, z=-442}
+[03θών.2024 00:06:04.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-61, y=67, z=-438} BlockPos{x=-48, y=52, z=-442}
+[03θών.2024 00:08:24.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-100, y=51, z=-416} BlockPos{x=-73, y=53, z=-414}
+[03θών.2024 00:08:49.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MikeLane lost connection: Disconnected
+[03θών.2024 00:08:49.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeLane left the game
+[03θών.2024 00:19:59.651] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/201344, l='ServerLevel[world]', x=-361.87, y=70.00, z=-5076.31] died, message: 'Cartographer was slain by Zombie'
+[03θών.2024 00:21:32.715] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player MikeLane is a40edc0b-e378-4345-ab45-20f6b20bb41b
+[03θών.2024 00:21:34.405] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MikeLane[/94.181.174.205:62814] logged in with entity id 234364 at (-70.62302876871422, 53.0, -410.5727004187941)
+[03θών.2024 00:21:34.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeLane joined the game
+[03θών.2024 00:24:08.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/201194, l='ServerLevel[world]', x=-329.55, y=68.92, z=-5093.44] died, message: 'Weaponsmith was slain by Zombie Villager'
+[03θών.2024 00:25:32.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-400, y=69, z=-5061} BlockPos{x=-400, y=70, z=-5062}
+[03θών.2024 00:25:32.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-400, y=69, z=-5061} BlockPos{x=-400, y=70, z=-5062}
+[03θών.2024 00:25:32.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-400, y=69, z=-5061} BlockPos{x=-400, y=70, z=-5062}
+[03θών.2024 00:25:32.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-400, y=69, z=-5061} BlockPos{x=-400, y=70, z=-5062}
+[03θών.2024 00:25:32.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-400, y=69, z=-5061} BlockPos{x=-400, y=70, z=-5062}
+[03θών.2024 00:25:32.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-400, y=69, z=-5061} BlockPos{x=-400, y=70, z=-5062}
+[03θών.2024 00:25:32.900] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-400, y=69, z=-5061} BlockPos{x=-400, y=70, z=-5062}
+[03θών.2024 00:25:35.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-400, y=69, z=-5061} BlockPos{x=-400, y=70, z=-5068}
+[03θών.2024 00:25:35.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-400, y=69, z=-5061} BlockPos{x=-400, y=70, z=-5068}
+[03θών.2024 00:25:35.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-400, y=69, z=-5061} BlockPos{x=-400, y=70, z=-5068}
+[03θών.2024 00:25:35.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-400, y=69, z=-5061} BlockPos{x=-400, y=70, z=-5068}
+[03θών.2024 00:25:35.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-401, y=70, z=-5070} BlockPos{x=-400, y=70, z=-5068}
+[03θών.2024 00:26:48.197] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/201440, l='ServerLevel[world]', x=-341.49, y=68.00, z=-5070.44] died, message: 'Librarian was slain by Zombie'
+[03θών.2024 00:39:04.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeLane has reached the goal [Zombie Doctor]
+[03θών.2024 00:43:58.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=91, z=-391} BlockPos{x=-5, y=88, z=-390}
+[03θών.2024 00:43:58.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=91, z=-391} BlockPos{x=-5, y=88, z=-390}
+[03θών.2024 00:43:58.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=91, z=-391} BlockPos{x=-5, y=88, z=-390}
+[03θών.2024 00:43:58.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=91, z=-391} BlockPos{x=-5, y=88, z=-390}
+[03θών.2024 00:47:59.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeLane has made the advancement [What a Deal!]
+[03θών.2024 00:51:38.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MosyaForever lost connection: Disconnected
+[03θών.2024 00:51:38.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MosyaForever left the game
+[03θών.2024 00:56:24.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MikeLane: Stopping the server]
+[03θών.2024 00:56:24.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03θών.2024 00:56:24.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03θών.2024 00:56:24.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03θών.2024 00:56:25.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03θών.2024 00:56:26.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03θών.2024 00:56:26.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03θών.2024 00:56:26.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03θών.2024 00:56:26.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03θών.2024 00:56:26.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03θών.2024 00:56:26.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
