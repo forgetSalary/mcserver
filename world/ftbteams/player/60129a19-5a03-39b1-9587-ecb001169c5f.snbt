@@ -1,0 +1,27 @@
+{
+	id: "60129a19-5a03-39b1-9587-ecb001169c5f"
+	type: "player"
+	player_name: "Oktarine"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Oktarine"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59C2"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [ ]
+	extra: { }
+}

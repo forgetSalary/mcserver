@@ -1,0 +1,894 @@
+{
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-05 19:06:25 +0300"
+    },
+    "done": false
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "totw_modded:root": {
+    "criteria": {
+      "sample_trigger": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2024-10-05 19:06:25 +0300",
+      "inv_changed-diamond": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "dimdungeons:dungeons/root": {
+    "criteria": {
+      "keystone_block": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2024-10-05 22:25:15 +0300",
+      "minecraft:bamboo_jungle": "2024-10-05 19:06:25 +0300",
+      "minecraft:dark_forest": "2024-10-06 22:32:23 +0300",
+      "minecraft:mangrove_swamp": "2024-10-05 21:09:48 +0300",
+      "minecraft:sparse_jungle": "2024-10-05 20:13:55 +0300",
+      "minecraft:lukewarm_ocean": "2024-10-05 21:01:18 +0300",
+      "minecraft:river": "2024-10-05 20:11:44 +0300",
+      "minecraft:dripstone_caves": "2024-10-06 19:23:36 +0300",
+      "minecraft:lush_caves": "2024-10-06 22:34:44 +0300",
+      "minecraft:desert": "2024-10-05 20:59:17 +0300",
+      "minecraft:warm_ocean": "2024-10-05 21:01:46 +0300",
+      "minecraft:old_growth_birch_forest": "2024-10-06 22:32:56 +0300",
+      "minecraft:savanna": "2024-10-06 20:12:43 +0300",
+      "minecraft:plains": "2024-10-05 21:12:01 +0300"
+    },
+    "done": false
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-05 19:06:25 +0300"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "numismatics:root": {
+    "criteria": {
+      "0": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "create_dd:root": {
+    "criteria": {
+      "0": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2024-10-05 19:06:25 +0300"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-05 19:06:26 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-05 19:06:26 +0300"
+    },
+    "done": false
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2024-10-05 19:08:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-10-05 19:08:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-10-05 19:08:47 +0300",
+      "minecraft:zoglin": "2024-10-07 23:17:15 +0300",
+      "minecraft:spider": "2024-10-06 20:01:54 +0300",
+      "minecraft:creeper": "2024-10-07 20:56:01 +0300",
+      "minecraft:husk": "2024-10-05 21:04:18 +0300",
+      "minecraft:cave_spider": "2024-10-06 21:29:18 +0300",
+      "minecraft:zombie": "2024-10-06 19:47:02 +0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-10-05 19:08:47 +0300"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-10-05 19:09:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-10-06 20:48:31 +0300",
+      "cooked_mutton": "2024-10-07 23:16:19 +0300",
+      "cooked_beef": "2024-10-05 21:44:34 +0300",
+      "cooked_cod": "2024-10-07 22:52:13 +0300",
+      "supplementaries:candy": "2024-10-05 22:31:11 +0300",
+      "pumpkin_pie": "2024-10-06 20:53:02 +0300",
+      "bread": "2024-10-05 19:09:44 +0300",
+      "melon_slice": "2024-10-05 20:28:47 +0300",
+      "golden_carrot": "2024-10-05 21:03:04 +0300",
+      "cooked_chicken": "2024-10-07 21:50:08 +0300",
+      "cooked_salmon": "2024-10-07 22:06:07 +0300"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-10-05 19:09:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-10-05 19:12:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-10-05 19:21:01 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "brown_mushroom": "2024-10-05 19:39:19 +0300"
+    },
+    "done": false
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2024-10-05 20:06:24 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-10-05 20:06:55 +0300"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2024-10-05 20:06:55 +0300"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-10-05 20:06:55 +0300"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-10-05 20:11:02 +0300"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-10-05 20:33:19 +0300",
+      "opened_chest": "2024-10-05 20:11:02 +0300",
+      "opened_cart": "2024-10-06 20:41:17 +0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-10-05 20:14:47 +0300"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/painting": {
+    "criteria": {
+      "has_item": "2024-10-05 20:33:11 +0300"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-10-05 20:33:19 +0300"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-10-05 20:34:10 +0300"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2024-10-05 20:35:51 +0300"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2024-10-05 20:35:51 +0300"
+    },
+    "done": true
+  },
+  "totw_modded:jungle_tower": {
+    "criteria": {
+      "jungle": "2024-10-05 20:37:39 +0300"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-10-05 20:44:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-10-05 20:44:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-10-05 20:50:52 +0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2024-10-05 21:14:57 +0300"
+    },
+    "done": true
+  },
+  "chalk:adventure/sleep_three_times_in_one_place": {
+    "criteria": {
+      "sleep_three_times_in_one_place": "2024-10-05 21:41:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-10-05 21:47:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-10-05 22:19:25 +0300"
+    },
+    "done": true
+  },
+  "idas:tinkers_workshop": {
+    "criteria": {
+      "in_tinkers_workshop": "2024-10-05 22:25:31 +0300"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2024-10-05 22:29:33 +0300"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-10-06 19:14:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-10-06 19:27:56 +0300"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-10-06 20:31:45 +0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2024-10-06 20:31:45 +0300"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-10-06 20:32:38 +0300",
+      "1": "2024-10-07 22:41:49 +0300"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_stone": "2024-10-06 20:40:04 +0300"
+    },
+    "done": false
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-10-06 20:41:17 +0300"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-10-06 20:41:17 +0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2024-10-06 20:42:05 +0300"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-10-06 20:42:32 +0300"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2024-10-06 20:54:33 +0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-10-06 21:09:11 +0300"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-10-06 21:27:53 +0300"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2024-10-06 21:37:18 +0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed": "2024-10-06 21:47:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-10-06 21:47:30 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2024-10-06 21:53:57 +0300"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_cobweb": "2024-10-06 21:57:15 +0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-10-06 22:08:45 +0300"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2024-10-06 22:35:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-10-06 23:18:40 +0300"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-10-06 23:18:40 +0300"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/printer": {
+    "criteria": {
+      "has_item": "2024-10-06 23:31:07 +0300"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/disenchanter": {
+    "criteria": {
+      "has_item": "2024-10-06 23:31:07 +0300"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "yellow": "2024-10-06 23:51:36 +0300"
+    },
+    "done": false
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2024-10-07 00:01:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2024-10-07 20:36:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-10-07 20:52:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-10-07 20:54:55 +0300"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-10-07 20:59:03 +0300"
+    },
+    "done": true
+  },
+  "moped:copper_moped_root": {
+    "criteria": {
+      "copper_moped_root": "2024-10-07 21:15:49 +0300"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-10-07 21:15:49 +0300"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2024-10-07 21:15:49 +0300"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-10-07 21:55:37 +0300"
+    },
+    "done": true
+  },
+  "idas:wizardtower": {
+    "criteria": {
+      "in_wizardtower": "2024-10-07 23:12:50 +0300"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "yellow": "2024-10-07 23:13:59 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-08 00:20:04 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-08 00:20:04 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-08 00:20:04 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-08 00:20:04 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-08 00:20:04 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-08 00:20:04 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-08 00:20:04 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-08 00:20:04 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-08 00:20:04 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-08 00:20:04 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-08 00:20:04 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-08 00:20:04 +0300"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2024-10-07 23:47:06 +0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2024-10-08 00:17:34 +0300"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2024-10-08 00:17:34 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

@@ -1,0 +1,138 @@
+[08окт.2024 00:01:26.602] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/magenta_flower_jungle_hedge removed now.
+[08окт.2024 00:01:26.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/white_flower_acacia_hedge removed now.
+[08окт.2024 00:01:26.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/magenta_flower_spruce_hedge removed now.
+[08окт.2024 00:01:26.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/golden_apple_spruce_hedge removed now.
+[08окт.2024 00:01:26.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/golden_cherry_jungle_hedge removed now.
+[08окт.2024 00:01:26.613] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/frosted_birch_hedge removed now.
+[08окт.2024 00:01:26.616] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/twilightforest/transformation_hedge removed now.
+[08окт.2024 00:01:26.617] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/red_spruce_hedge removed now.
+[08окт.2024 00:01:26.620] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/golden_cherry_acacia_hedge removed now.
+[08окт.2024 00:01:26.621] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/blue_skies/lunar_hedge removed now.
+[08окт.2024 00:01:26.622] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/frosted_oak_hedge removed now.
+[08окт.2024 00:01:26.624] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/orange_dark_oak_hedge removed now.
+[08окт.2024 00:01:26.625] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/magenta_flower_jungle_hedge removed now.
+[08окт.2024 00:01:26.625] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/white_flower_acacia_hedge removed now.
+[08окт.2024 00:01:26.626] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/magenta_flower_spruce_hedge removed now.
+[08окт.2024 00:01:26.628] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/golden_apple_spruce_hedge removed now.
+[08окт.2024 00:01:26.630] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/golden_cherry_jungle_hedge removed now.
+[08окт.2024 00:01:26.631] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/frosted_birch_hedge removed now.
+[08окт.2024 00:01:26.634] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/twilightforest/transformation_hedge removed now.
+[08окт.2024 00:01:26.634] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/red_spruce_hedge removed now.
+[08окт.2024 00:01:26.637] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/golden_cherry_acacia_hedge removed now.
+[08окт.2024 00:01:26.638] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/blue_skies/lunar_hedge removed now.
+[08окт.2024 00:01:26.640] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/frosted_oak_hedge removed now.
+[08окт.2024 00:01:26.641] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: everycomp:q/chipped/orange_dark_oak_hedge removed now.
+[08окт.2024 00:01:26.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kinaioz[/37.112.29.82:64673] logged in with entity id 158744 at (254.08537311961896, 90.0, 1998.8615392790887)
+[08окт.2024 00:01:26.643] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Kinaioz
+[08окт.2024 00:01:26.644] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Kinaioz
+[08окт.2024 00:01:26.645] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Kinaioz
+[08окт.2024 00:01:26.645] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Kinaioz
+[08окт.2024 00:01:26.647] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Kinaioz
+[08окт.2024 00:01:26.653] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Kinaioz
+[08окт.2024 00:01:26.653] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kinaioz
+[08окт.2024 00:01:26.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinaioz joined the game
+[08окт.2024 00:01:26.837] [Server thread/INFO] [Jade/]: Syncing config to Kinaioz (b4f4e9ea-29a4-3936-9666-7f9a2c976e03)
+[08окт.2024 00:01:31.727] [Server thread/INFO] [ping-wheel/]: Channel update: Kinaioz -> default
+[08окт.2024 00:03:20.270] [Worker-Main-2/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-2225, y=66, z=3955}
+[08окт.2024 00:03:20.270] [Worker-Main-2/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-2225, y=66, z=3953}
+[08окт.2024 00:03:26.270] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/159568, l='ServerLevel[world]', x=-1477.50, y=75.00, z=1251.50]
+[08окт.2024 00:03:26.962] [Worker-Main-5/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-2224, y=66, z=3953}
+[08окт.2024 00:04:18.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MosyaForever> xaero-waypoint:Shared Location:S:-389:74:1718:2:false:0:Internal-overworld-waypoints
+[08окт.2024 00:05:57.294] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/161046, l='ServerLevel[world]', x=-1476.50, y=75.00, z=1251.50]
+[08окт.2024 00:07:34.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinaioz has made the advancement [Unbreaking X]
+[08окт.2024 00:07:56.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oktarine has reached the goal [What a find!]
+[08окт.2024 00:08:23.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summerlay has reached the goal [Pray to the Goddess]
+[08окт.2024 00:08:32.976] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/162681, l='ServerLevel[world]', x=-1376.50, y=80.00, z=1261.50]
+[08окт.2024 00:08:58.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinaioz has made the advancement [Into Fire]
+[08окт.2024 00:09:21.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinaioz has made the advancement [Ice Bucket Challenge]
+[08окт.2024 00:09:28.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinaioz has made the advancement [Mage's Spell Book]
+[08окт.2024 00:09:33.302] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=-1429, y=73, z=1368} as the loot table 'idas:chests/idaslibrary' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[08окт.2024 00:10:34.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oktarine has made the advancement [Penteconter]
+[08окт.2024 00:11:39.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oktarine was shot by Pillager
+[08окт.2024 00:11:39.690] [Server thread/INFO] [tombstone/]: The player Oktarine has successfully been saved
+[08окт.2024 00:11:41.211] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08окт.2024 00:11:47.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeLane has made the advancement [The Bearclaw Inn]
+[08окт.2024 00:13:40.574] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2885, y=18, z=5017}
+[08окт.2024 00:13:45.047] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2884, y=19, z=5038}
+[08окт.2024 00:16:02.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summerlay has completed the challenge [Ancient Mines]
+[08окт.2024 00:16:08.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinaioz has made the advancement [Imbued]
+[08окт.2024 00:16:13.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summerlay was frozen by Ice Dragon
+[08окт.2024 00:16:13.356] [Server thread/INFO] [tombstone/]: The player Summerlay has successfully been saved
+[08окт.2024 00:16:20.702] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08окт.2024 00:16:35.473] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/170338, l='ServerLevel[world]', x=-3169.50, y=73.00, z=4929.50]
+[08окт.2024 00:16:59.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinaioz has made the advancement [Not a Fluid!]
+[08окт.2024 00:17:34.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MosyaForever has made the advancement [Complex Curiosities]
+[08окт.2024 00:17:34.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MosyaForever has made the advancement [Not a Fluid!]
+[08окт.2024 00:20:25.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Besoreb has made the advancement [Not a Fluid!]
+[08окт.2024 00:20:27.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summerlay lost connection: Disconnected
+[08окт.2024 00:20:27.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summerlay left the game
+[08окт.2024 00:20:34.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MosyaForever lost connection: Disconnected
+[08окт.2024 00:20:34.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MosyaForever left the game
+[08окт.2024 00:20:43.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MikeLane> zzzzzzzzzzzzz
+[08окт.2024 00:25:51.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MikeLane lost connection: Disconnected
+[08окт.2024 00:25:51.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MikeLane left the game
+[08окт.2024 00:26:01.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oktarine lost connection: Disconnected
+[08окт.2024 00:26:01.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oktarine left the game
+[08окт.2024 00:26:16.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Besoreb lost connection: Disconnected
+[08окт.2024 00:26:16.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Besoreb left the game
+[08окт.2024 00:26:23.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kinaioz lost connection: Disconnected
+[08окт.2024 00:26:23.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinaioz left the game
+[08окт.2024 00:28:51.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08окт.2024 00:28:51.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ldiy<--[HERE]
+[08окт.2024 00:28:53.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 16 players online: 
+[08окт.2024 00:28:56.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08окт.2024 00:28:56.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08окт.2024 00:28:56.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08окт.2024 00:28:56.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08окт.2024 00:28:56.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08окт.2024 00:28:56.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[08окт.2024 00:28:56.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[08окт.2024 00:28:56.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08окт.2024 00:28:56.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[08окт.2024 00:28:56.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[08окт.2024 00:28:56.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[08окт.2024 00:28:56.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[08окт.2024 00:28:56.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[08окт.2024 00:28:56.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[08окт.2024 00:28:56.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/create_dd:ponder
+[08окт.2024 00:28:56.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/dimdungeons:build_dimension
+[08окт.2024 00:28:56.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/dimdungeons:dungeon_dimension
+[08окт.2024 00:28:56.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[08окт.2024 00:28:56.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[08окт.2024 00:28:56.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[08окт.2024 00:28:56.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[08окт.2024 00:28:56.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[08окт.2024 00:28:56.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[08окт.2024 00:28:56.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[08окт.2024 00:28:56.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[08окт.2024 00:28:56.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[08окт.2024 00:28:56.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08окт.2024 00:28:56.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[08окт.2024 00:28:57.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08окт.2024 00:28:57.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[08окт.2024 00:28:57.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[08окт.2024 00:28:57.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08окт.2024 00:28:57.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[08окт.2024 00:28:57.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[08окт.2024 00:28:57.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[08окт.2024 00:28:57.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[08окт.2024 00:28:57.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[08окт.2024 00:28:57.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[08окт.2024 00:28:57.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (ponder): All chunks are saved
+[08окт.2024 00:28:57.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (build_dimension): All chunks are saved
+[08окт.2024 00:28:57.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon_dimension): All chunks are saved
+[08окт.2024 00:28:57.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[08окт.2024 00:28:57.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[08окт.2024 00:28:57.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[08окт.2024 00:28:57.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[08окт.2024 00:28:57.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[08окт.2024 00:28:57.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[08окт.2024 00:28:57.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[08окт.2024 00:28:57.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[08окт.2024 00:28:57.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[08окт.2024 00:28:57.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08окт.2024 00:28:57.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[08окт.2024 00:28:57.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08окт.2024 00:28:57.795] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[08окт.2024 00:28:57.796] [Server thread/INFO] [Framework/]: Unloading server configs...
+[08окт.2024 00:28:57.797] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
