@@ -1006,77 +1006,29 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "log_spam_fixer": "2024-10-08 19:50:52 +0300"
+      "lava_bucket": "2024-10-08 23:40:38 +0300"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "farmersdelight:main/harvest_straw": {
     "criteria": {
-      "log_spam_fixer": "2024-10-08 19:50:52 +0300"
+      "harvest_straw": "2024-10-08 22:17:53 +0300"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "create:steam_engine": {
     "criteria": {
-      "log_spam_fixer": "2024-10-08 19:50:52 +0300"
+      "0": "2024-10-08 23:15:18 +0300"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "create:mechanical_crafter": {
     "criteria": {
-      "log_spam_fixer": "2024-10-08 19:50:52 +0300"
+      "0": "2024-10-08 22:23:38 +0300"
     },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-08 19:50:52 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-08 19:50:52 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-08 19:50:52 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-08 19:50:52 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-08 19:50:52 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-08 19:50:52 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-08 19:50:52 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-08 19:50:52 +0300"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

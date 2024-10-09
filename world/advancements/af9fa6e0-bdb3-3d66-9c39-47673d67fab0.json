@@ -399,6 +399,7 @@
       "baked_potato": "2024-10-06 21:30:47 +0300",
       "apple": "2024-10-05 23:56:23 +0300",
       "bread": "2024-10-05 19:08:51 +0300",
+      "golden_apple": "2024-10-08 21:41:49 +0300",
       "cookie": "2024-10-05 20:31:25 +0300",
       "rotten_flesh": "2024-10-06 21:09:07 +0300",
       "glow_berries": "2024-10-05 20:27:34 +0300",
@@ -421,6 +422,7 @@
       "minecraft:spider": "2024-10-06 00:46:09 +0300",
       "minecraft:witch": "2024-10-05 20:08:46 +0300",
       "minecraft:cave_spider": "2024-10-06 10:45:18 +0300",
+      "minecraft:piglin": "2024-10-08 21:59:35 +0300",
       "minecraft:silverfish": "2024-10-06 00:10:20 +0300",
       "minecraft:zombie": "2024-10-05 22:51:39 +0300"
     },
@@ -1096,77 +1098,86 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
-      "log_spam_fixer": "2024-10-08 19:46:52 +0300"
+      "requirement": "2024-10-08 20:23:37 +0300"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-10-08 22:14:30 +0300",
+      "in_better_monster_room": "2024-10-08 20:45:01 +0300",
+      "in_better_spider_dungeon": "2024-10-08 22:14:26 +0300"
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "betterdungeons:small_dungeon": {
     "criteria": {
-      "log_spam_fixer": "2024-10-08 19:46:52 +0300"
+      "in_better_monster_room": "2024-10-08 20:45:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-10-08 21:34:33 +0300",
+      "minecraft:soul_sand_valley": "2024-10-08 21:36:00 +0300"
     },
     "done": false
   },
-  "incendium:technical/multiplex_crossbow": {
+  "incendium:root": {
     "criteria": {
-      "log_spam_fixer": "2024-10-08 19:46:52 +0300"
+      "requirement": "2024-10-08 21:34:33 +0300"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:nether/root": {
     "criteria": {
-      "log_spam_fixer": "2024-10-08 19:46:52 +0300"
+      "entered_nether": "2024-10-08 21:34:33 +0300"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "log_spam_fixer": "2024-10-08 19:46:52 +0300"
+      "entered_nether": "2024-10-08 21:34:33 +0300"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
-      "log_spam_fixer": "2024-10-08 19:46:52 +0300"
+      "ancient_debris": "2024-10-08 21:41:59 +0300"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "betterdungeons:zombie_dungeon": {
     "criteria": {
-      "log_spam_fixer": "2024-10-08 19:46:52 +0300"
+      "in_better_zombie_dungeon": "2024-10-08 22:14:30 +0300"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "farmersdelight:main/harvest_straw": {
     "criteria": {
-      "log_spam_fixer": "2024-10-08 19:46:52 +0300"
+      "harvest_straw": "2024-10-08 23:05:05 +0300"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "ars_nouveau:source_jar": {
     "criteria": {
-      "log_spam_fixer": "2024-10-08 19:46:52 +0300"
+      "has_source_jar": "2024-10-08 23:05:05 +0300"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "ars_nouveau:magebloom_crop": {
     "criteria": {
-      "log_spam_fixer": "2024-10-08 19:46:52 +0300"
+      "has_magebloom_crop": "2024-10-08 23:05:05 +0300"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "betterdungeons:spider_dungeon": {
     "criteria": {
-      "log_spam_fixer": "2024-10-08 19:46:52 +0300"
+      "in_better_spider_dungeon": "2024-10-08 22:14:26 +0300"
     },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-08 19:46:52 +0300"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
