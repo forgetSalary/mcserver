@@ -399,7 +399,9 @@
     "criteria": {
       "minecraft:blaze": "2024-10-06 23:04:20 +0300",
       "minecraft:skeleton": "2024-10-06 00:45:47 +0300",
+      "minecraft:magma_cube": "2024-10-16 22:21:26 +0300",
       "minecraft:spider": "2024-10-05 20:19:44 +0300",
+      "minecraft:creeper": "2024-10-16 23:52:19 +0300",
       "minecraft:zombified_piglin": "2024-10-11 20:05:11 +0300",
       "minecraft:wither_skeleton": "2024-10-06 22:49:52 +0300",
       "minecraft:cave_spider": "2024-10-06 21:31:00 +0300",
@@ -434,6 +436,8 @@
       "pumpkin_pie": "2024-10-07 23:26:12 +0300",
       "bread": "2024-10-05 22:30:10 +0300",
       "golden_apple": "2024-10-06 23:03:20 +0300",
+      "cookie": "2024-10-16 22:49:46 +0300",
+      "rotten_flesh": "2024-10-16 22:37:07 +0300",
       "melon_slice": "2024-10-05 19:34:15 +0300",
       "golden_carrot": "2024-10-05 22:30:12 +0300",
       "enchanted_golden_apple": "2024-10-06 21:30:27 +0300"
@@ -981,6 +985,7 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
+      "in_mineshaft_nether": "2024-10-16 22:43:10 +0300",
       "in_mineshaft_stone": "2024-10-08 19:14:32 +0300"
     },
     "done": false
@@ -1000,7 +1005,9 @@
   "obtrophies:all_vanilla_trophies": {
     "criteria": {
       "has_cave_spider_trophy": "2024-10-08 19:15:44 +0300",
+      "has_magma_cube_trophy": "2024-10-16 22:22:30 +0300",
       "has_sheep_trophy": "2024-10-10 21:46:13 +0300",
+      "has_zombified_piglin_trophy": "2024-10-16 22:24:58 +0300",
       "has_pillager_trophy": "2024-10-10 21:46:14 +0300"
     },
     "done": false
@@ -1215,95 +1222,17 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-13 22:43:06 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-13 22:43:06 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-13 22:43:06 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-13 22:43:06 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-13 22:43:06 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-13 22:43:06 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-13 22:43:06 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-13 22:43:06 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-13 22:43:06 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-13 22:43:06 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-13 22:43:06 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-13 22:43:06 +0300"
-    },
-    "done": false
-  },
-  "create:sturdy_sheet": {
-    "criteria": {
-      "0": "2024-10-13 21:49:15 +0300"
-    },
-    "done": true
-  },
-  "create:glass_pipe": {
-    "criteria": {
-      "0": "2024-10-13 20:41:21 +0300"
-    },
-    "done": true
-  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:bee": "2024-10-13 18:12:34 +0300"
     },
     "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-10-13 18:12:34 +0300"
+    },
+    "done": true
   },
   "create:drain": {
     "criteria": {
@@ -1311,9 +1240,9 @@
     },
     "done": true
   },
-  "create:cross_streams": {
+  "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
-      "0": "2024-10-13 22:04:31 +0300"
+      "ancient_debris": "2024-10-13 20:17:48 +0300"
     },
     "done": true
   },
@@ -1329,9 +1258,15 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_ancient_debris": {
+  "create:glass_pipe": {
     "criteria": {
-      "ancient_debris": "2024-10-13 20:17:48 +0300"
+      "0": "2024-10-13 20:41:21 +0300"
+    },
+    "done": true
+  },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2024-10-13 21:49:15 +0300"
     },
     "done": true
   },
@@ -1341,9 +1276,123 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "create:cross_streams": {
     "criteria": {
-      "bred": "2024-10-13 18:12:34 +0300"
+      "0": "2024-10-13 22:04:31 +0300"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-16 23:59:46 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-16 23:59:46 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-16 23:59:46 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-16 23:59:46 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-16 23:59:46 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-16 23:59:46 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-16 23:59:46 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-16 23:59:46 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-16 23:59:46 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-16 23:59:46 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-16 23:59:46 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-10-16 23:59:46 +0300"
+    },
+    "done": false
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:ash_barrens": "2024-10-16 22:26:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-10-16 22:47:35 +0300"
+    },
+    "done": true
+  },
+  "simplyswords:watching_warglaive": {
+    "criteria": {
+      "requirement": "2024-10-16 22:59:29 +0300"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:ash_barrens": "2024-10-16 22:26:14 +0300"
+    },
+    "done": false
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-10-16 23:10:42 +0300"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2024-10-16 22:26:14 +0300"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-10-16 23:33:22 +0300"
     },
     "done": true
   },

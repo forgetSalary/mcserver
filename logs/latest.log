@@ -1,364 +1,58 @@
-[15окт.2024 19:30:26.339] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[15окт.2024 19:30:26.347] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 20.0.2 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
-[15окт.2024 19:30:35.565] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[15окт.2024 19:30:35.610] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/mcservers/mcserver/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[15окт.2024 19:30:37.295] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\mcservers\mcserver\libraries\net\minecraftforge\fmlcore\1.20.1-47.3.0\fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
-[15окт.2024 19:30:37.363] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\mcservers\mcserver\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.3.0\javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[15окт.2024 19:30:37.402] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\mcservers\mcserver\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.3.0\lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[15окт.2024 19:30:37.448] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\mcservers\mcserver\libraries\net\minecraftforge\mclanguage\1.20.1-47.3.0\mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[15окт.2024 19:30:37.914] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[15окт.2024 19:30:37.916] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: C:\mcservers\mcserver\mods\geckolib-forge-1.20.1-4.4.9.jar
-[15окт.2024 19:30:37.916] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: C:\mcservers\mcserver\mods\curios-forge-5.10.0+1.20.1.jar
-[15окт.2024 19:30:37.917] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: C:\mcservers\mcserver\mods\resourcefullib-forge-1.20.1-2.1.29.jar
-[15окт.2024 19:30:37.917] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 22 dependencies adding them to mods collection
-[15окт.2024 19:30:44.908] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[15окт.2024 19:30:45.032] [main/ERROR] [mixin/]: Mixin config necronomicon.forge.mixins.json does not specify "minVersion" property
-[15окт.2024 19:30:45.197] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
-[15окт.2024 19:30:45.198] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
-[15окт.2024 19:30:45.345] [main/ERROR] [mixin/]: Mixin config noseenotick.mixins.json does not specify "minVersion" property
-[15окт.2024 19:30:45.383] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[15окт.2024 19:30:45.384] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[15окт.2024 19:30:45.392] [main/WARN] [mixin/]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
-[15окт.2024 19:30:45.467] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.4+mc1.20.1: 84 options available, 0 override(s) found
-[15окт.2024 19:30:45.468] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[15окт.2024 19:30:45.488] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[15окт.2024 19:30:45.530] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 321 options available, 0 override(s) found
-[15окт.2024 19:30:45.550] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
-[15окт.2024 19:30:45.564] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
-[15окт.2024 19:30:45.565] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[15окт.2024 19:30:45.576] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
-[15окт.2024 19:30:45.627] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 1 override(s) found
-[15окт.2024 19:30:45.650] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[15окт.2024 19:30:45.663] [main/WARN] [mixin/]: Reference map 'tfmg.refmap.json' for design_decor.mixins.json could not be read. If this is a development environment you can ignore this message
-[15окт.2024 19:30:45.703] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
-[15окт.2024 19:30:45.724] [main/INFO] [Puzzles Lib/]: Loading 276 mods:
-	- ad_astra 1.15.5
-	- additional_lights 2.1.7
-	- advancementplaques 1.6.7
-	- ae2 15.2.13
-	- ae2things 1.2.1
-	- ae2wtlib 15.2.3-forge
-	- aeinfinitybooster 1.20.1-1.0.0+21
-	- aeroblender 1.20.1-1.0.1-neoforge
-	- aether 1.20.1-1.4.2-neoforge
-		|-- cumulus_menus 1.20.1-1.0.0-neoforge
-		\-- nitrogen_internals 1.20.1-1.0.7-neoforge
-	- aiimprovements 0.5.2
-	- alexscaves 1.1.5
-	- alexscaves_torpedoes 1.0.2
-	- alexsmobs 1.22.9
-	- almostunified 1.20.1-0.9.4
-	- alternate_current 1.7.0
-	- amendments 1.20-1.2.11
-	- appleskin 2.5.1+mc1.20.1
-	- architectury 9.2.14
-	- armorstatues 8.0.6
-		|-- puzzlesaccessapi 8.0.7
-		\-- puzzlesapi 8.1.4
-	- ars_creo 4.1.0
-	- ars_elemental 1.20.1-0.6.7
-	- ars_nouveau 4.12.4
-	- artifacts 9.5.13
-		\-- expandability 9.0.4
-	- athena 3.1.2
-	- attributefix 21.0.4
-	- attributeslib 1.3.7
-	- autoreglib 1.8.2-55
-	- azurelib 2.0.37
-	- balancedflight 1.20.1_v2.3.0
-	- balm 7.3.9
-		\-- kuma_api 20.1.8
-	- bcc 4.0.8
-	- better_beacons 1.1.1
-	- betteradvancements 0.4.2.10
-	- betterarcheology 1.2.1-1.20.1
-	- bettercombat 1.8.6+1.20.1
-	- betterdeserttemples 1.20-Forge-3.0.3
-	- betterdungeons 1.20-Forge-4.0.4
-	- betterendisland 1.20-Forge-2.0.6
-	- betterfortresses 1.20-Forge-2.0.6
-	- betterjungletemples 1.20-Forge-2.0.5
-	- bettermineshafts 1.20-Forge-4.0.4
-	- betteroceanmonuments 1.20-Forge-3.0.4
-	- betterstrongholds 1.20-Forge-4.0.3
-	- betterthirdperson 1.9.0
-	- betterwitchhuts 1.20-Forge-3.0.3
-	- bfendcities 1.0
-	- blue_skies 1.3.31
-	- blueprint 7.1.0
-	- boatbreakfix 1.0.2
-	- bookshelf 20.2.13
-	- born_in_chaos_v1 1.0.0
-	- bosses_of_mass_destruction 1.1.1
-	- botarium 2.3.4
-	- bowinfinityfix 2.6.0
-	- brutalbosses 1.20.1-7.1
-	- buildinggadgets2 1.0.7
-	- caelus 3.2.0+1.20.1
-	- camera 1.20.1-1.0.14
-	- cataclysm 1.99.5
-	- cataclysmiccombat 1.3.4
-	- cerbons_api 1.0.0
-	- chalk 1.6.4
-	- charmofundying 6.5.0+1.20.1
-		\-- spectrelib 0.13.15+1.20.1
-	- chat_heads 0.13.3
-		\-- mixinextras 0.4.1
-	- chipped 3.0.6
-	- chisel_chipped_integration 1.1.0-1.20.1
-	- chunksending 1.20.1-2.8
-	- citadel 2.6.0
-	- clickadv 1.20.1-3.8
-	- cloth_config 11.1.136
-	- clumps 12.0.0.4
-	- collective 7.84
-	- combatroll 1.3.3+1.20.1
-	- comforts 6.4.0+1.20.1
-	- conjurer_illager 1.1.6
-	- connectedglass 1.1.12
-	- connectivity 1.20.1-5.6
-	- constructionwand 1.20.1-2.11
-	- controlling 12.0.2
-	- copycats 2.1.4+mc.1.20.1-forge
-	- coroutil 1.20.1-1.3.7
-	- cosmeticarmorreworked 1.20.1-v1a
-	- craftingtweaks 18.2.5
-	- create 0.5.1.h
-		\-- flywheel 0.6.11-13
-	- create_central_kitchen 1.3.12
-		\-- create_dragon_lib 1.4.3
-	- create_chronicles_core 0.4-1.20
-	- create_confectionery 1.1.0
-	- create_connected 0.9.1-mc1.20.1
-	- create_dd 0.2c.PREBETA
-	- create_enchantment_industry 1.2.9.d
-	- create_optical 0.2.1
-	- create_pattern_schematics 1.1.14+forge-1.20.1
-	- create_power_loader 1.5.0-mc1.20.1
-	- create_sa 2.0.4.
-	- create_sabers 1.3.0
-	- create_things_and_misc 1.0.0
-	- createaddition 1.20.1-1.2.4e
-	- createappliedkinetics 1.4.0-1.20.1
-	- createcontraptionterminals 1.0.0
-	- createdeco 2.0.2-1.20.1-forge
-	- createstuffadditionsfix 0.0.0.1
-	- creativecore 2.12.15
-	- creeperoverhaul 3.0.2
-	- ctov 3.4.9
-	- cupboard 1.20.1-2.7
-	- curios 5.10.0+1.20.1
-	- deathknell 10.0.4
-	- dedicatedmcupnp 2.0.0
-	- deeperdarker 1.3.2
-	- design_decor 0.4.0b
-	- dimdungeons 194
-	- dragonfight 1.20.1-4.6
-	- dsbg 1.0-1.20.1
-	- dummmmmmy 1.20-2.0.2
-	- dungeons_arise 2.1.58-1.20.x
-	- dungeons_arise_seven_seas 1.0.2
-	- dustrial_decor 1.3.2
-	- eccentrictome 1.20.1-1.10.2
-	- ecologics 2.2.0
-	- elytraslot 6.4.3+1.20.1
-		\-- mixinsquared 0.1.2-beta.6
-	- embeddium 0.3.31+mc1.20.1
-		\-- rubidium 0.7.1
-	- embeddium_extra 0.5.4.3+mc1.20.1-build.121
-	- enchdesc 17.1.18
-	- endermanoverhaul 1.0.4
-	- endrem 5.3.3-R-1.20.1
-	- everycomp 1.20-2.6.76
-	- explorerscompass 1.20.1-1.3.3-forge
-	- eyesoficeandfire 1.1.0-1.20.1
-	- farmersdelight 1.20.1-1.2.4
-	- fastasyncworldsave 1.20.1-2.0
-	- fastbench 8.0.4
-	- fastfurnace 8.0.2
-	- fastleafdecay 32
-	- ferritecore 6.0.1
-	- foodeffecttooltips 1.3.0
-	- forbidden_arcanus 1.20.1-2.2.6
-	- forge 47.3.0
-	- framedblocks 9.3.1
-	- framework 0.7.8
-	- ftbchunks 2001.3.1
-	- ftblibrary 2001.2.4
-	- ftbquests 2001.4.8
-	- ftbteams 2001.3.0
-	- ftbxmodcompat 2.1.1
-	- fusion 1.1.1
-	- geckolib 4.4.9
-	- geophilic 3.1.3
-	- graveyard 3.1
-	- handcrafted 3.0.6
-	- hostilenetworks 5.3.1
-	- iceandfire 2.1.13-1.20.1
-	- iceberg 1.1.21
-	- idas 1.10.1+1.20.1
-	- illagerinvasion 8.0.6
-	- immersive_paintings 0.6.7+1.20.1
-	- incendium 5.3.5
-	- integrated_api 1.5.1+1.20.1-forge
-	- inventorysorter 23.0.1
-	- irons_spellbooks 1.20.1-3.4.0.1
-	- itemfilters 2001.1.0-build.59
-	- itemzoom 2.9.0
-	- jade 11.11.1+forge
-	- jadeaddons 5.3.1+forge
-	- jei 15.12.3.54
-	- jeiintegration 10.0.0
-	- jeresources 1.4.0.247
-	- konkrete 1.8.0
-	- kotlinforforge 4.11.0
-	- kubejs 2001.6.5-build.14
-	- kubejs_create 2001.2.5-build.2
-	- kubejsarsnouveau 1.2.2
-	- letmedespawn 1.3.2b
-	- libx 1.20.1-5.0.12
-	- lionfishapi 1.9
-	- lithostitched 1.3.0
-	- lootjs 1.20.1-2.12.0
-	- lootr 0.7.34.87
-	- mcwbridges 3.0.0
-	- minecraft 1.20.1
-	- modernfix 5.19.4+mc1.20.1
-	- molten_vents 2.0.8
-	- moonlight 1.20-2.13.1
-	- moped 1.0.0
-	- mowziesmobs 1.6.4
-	- mutantmonsters 8.0.7
-	- myserveriscompatible 1.0
-	- necronomicon 1.4.2
-	- netherportalfix 13.0.1
-	- noseenotick 2.0.0-build.9999
-	- notenoughanimations 1.7.6
-	- numismatics 1.0.6+forge-mc1.20.1
-	- obtrophies 1.20.1-4.1.15
-	- packetfixer 1.4.2
-	- paraglider 20.1.3
-	- patchouli 1.20.1-84-FORGE
-	- paxi 1.20-Forge-4.0
-	- pickupnotifier 8.0.0
-	- pingwheel 1.9.1
-	- placebo 8.6.2
-	- playeranimator 1.0.2-rc1+1.20
-	- polyeng 0.1.1-1.20.1
-	- polymorph 0.49.5+1.20.1
-	- puffish_skills 0.11.6
-	- puzzleslib 8.1.23
-	- quark 4.0-458
-	- radium 0.12.4+git.26c9d8e
-	- railways 1.6.5+forge-mc1.20.1
-	- realmrpg_skeletons 1.0.3
-	- realmrpg_wyrms 1.0.1
-	- refurbished_furniture 1.0.6
-	- repurposed_structures 7.1.15+1.20.1-forge
-	- resourcefulconfig 2.1.2
-	- resourcefullib 2.1.29
-	- rhino 2001.2.3-build.6
-	- ribbits 1.20.1-Forge-3.0.0
-	- ringsofascension 2.0.0
-	- samurai_dynasty 0.0.48-1.20.1-neo
-	- searchables 1.0.3
-	- serverconfigupdater 4.0.2
-	- shieldexp 1.1.7a
-	- simplyswords 1.56.0-1.20.1
-	- skinlayers3d 1.6.7
-	- smoothchunk 1.20.1-3.6
-	- snowundertrees 1.4.4
-	- solcarrot 1.15.1
-	- sophisticatedbackpacks 3.20.7.1075
-	- sophisticatedcore 0.6.26.668
-	- sophisticatedstorage 0.10.30.837
-	- spark 1.10.53
-	- sparsestructuresreforged 1.20.1-0.0.1
-	- spyglass_improvements 1.5+mc1.20+forge
-	- starterkit 7.1
-	- structure_gel 2.16.2
-	- structureessentials 1.20.1-3.4
-	- stylisheffects 8.0.2
-	- supermartijn642configlib 1.1.8
-	- supermartijn642corelib 1.1.17+a
-	- supplementaries 1.20-2.8.17
-	- terrablender 3.0.1.7
-	- terralith 2.5.4
-	- tfmg 0.9.2-1.20.1
-	- tombstone 8.6.6
-	- toms_storage 1.6.8
-	- toofast 0.4.3.5
-	- toolbelt 1.20.01
-	- torchmaster 20.1.6
-	- totw_modded 1.0.5
-	- trashslot 15.1.0
-	- travelanchors 1.20.1-5.0.1
-	- travelerstitles 1.20-Forge-4.0.2
-	- treasuredistance 1.20-1.2
-	- twilightforest 4.3.2508
-	- valhelsia_core 1.1.2
-	- veinmining 1.5.0+1.20.1
-	- villagernames 8.1
-	- visualworkbench 8.0.0
-	- watut 1.20.1-1.1.3
-	- waystones 14.1.5
-	- yeetusexperimentus 2.3.1-build.6+mc1.20.1
-	- yosby 1.0.0
-	- yungsapi 1.20-Forge-4.0.5
-	- yungsbridges 1.20-Forge-4.0.3
-	- yungsextras 1.20-Forge-4.0.3
-	- zeta 1.0-19
-	- zillagersweararmor 1.20.1-1.4.0
-[15окт.2024 19:30:45.882] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[15окт.2024 19:30:45.962] [main/WARN] [mixin/]: Reference map 'tfmg.refmap.json' for tfmg.mixins.json could not be read. If this is a development environment you can ignore this message
-[15окт.2024 19:30:45.966] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[15окт.2024 19:30:45.994] [main/WARN] [mixin/]: Reference map 'createappliedkinetics.refmap.json' for createappliedkinetics.mixins.json could not be read. If this is a development environment you can ignore this message
-[15окт.2024 19:30:46.015] [main/WARN] [mixin/]: Reference map 'immersive_paintings-common-refmap.json' for immersive_paintings.mixin.json could not be read. If this is a development environment you can ignore this message
-[15окт.2024 19:30:46.017] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[15окт.2024 19:30:46.023] [main/INFO] [necronomicon/]: File exists, reading config for elocindev.yosby.forge.config.YOSBYConfig.
-[15окт.2024 19:30:46.029] [main/INFO] [necronomicon/]: Config for elocindev.yosby.forge.config.YOSBYConfig read successfully.
-[15окт.2024 19:30:46.035] [main/WARN] [mixin/]: Reference map 'yosby.refmap.json' for yosby.mixins.json could not be read. If this is a development environment you can ignore this message
-[15окт.2024 19:30:46.096] [main/WARN] [mixin/]: Reference map 'packetfixer-forge-forge-refmap.json' for packetfixer-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[15окт.2024 19:30:46.967] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[15окт.2024 19:30:46.976] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[15окт.2024 19:30:47.185] [main/WARN] [Radium Config/]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[15окт.2024 19:30:47.400] [main/WARN] [mixin/]: Error loading class: mezz/jei/library/plugins/vanilla/InventoryEffectRendererGuiHandler (java.lang.ClassNotFoundException: mezz.jei.library.plugins.vanilla.InventoryEffectRendererGuiHandler)
-[15окт.2024 19:30:47.401] [main/WARN] [mixin/]: @Mixin target mezz.jei.library.plugins.vanilla.InventoryEffectRendererGuiHandler was not found stylisheffects.common.mixins.json:integration.jei.InventoryEffectRendererGuiHandlerMixin
-[15окт.2024 19:30:47.707] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
-[15окт.2024 19:30:47.978] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
-[15окт.2024 19:30:48.002] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER
-[15окт.2024 19:30:48.003] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/gui/AbstractSimiScreen (java.lang.RuntimeException: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER)
-[15окт.2024 19:30:48.003] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.foundation.gui.AbstractSimiScreen was not found create_connected.mixins.json:sequencedgearshift.AbstractSimiScreenAccessor
-[15окт.2024 19:30:48.075] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[15окт.2024 19:30:48.075] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[15окт.2024 19:30:48.210] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/common/ConfigCommon (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.common.ConfigCommon)
-[15окт.2024 19:30:48.212] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[15окт.2024 19:30:48.212] [main/WARN] [mixin/]: @Mixin target com.firemerald.additionalplacements.block.AdditionalPlacementBlock was not found copycats-common.mixins.json:compat.additionalplacements.PlacementBlockMixin
-[15окт.2024 19:30:48.214] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
-[15окт.2024 19:30:48.234] [main/WARN] [mixin/]: Error loading class: cjminecraft/doubleslabs/common/config/DSConfig$Common (java.lang.ClassNotFoundException: cjminecraft.doubleslabs.common.config.DSConfig$Common)
-[15окт.2024 19:30:48.527] [main/WARN] [mixin/]: Error loading class: vazkii/quark/addons/oddities/inventory/BackpackMenu (java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.BackpackMenu)
-[15окт.2024 19:30:48.528] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/inventory/CraftingScreen (java.lang.ClassNotFoundException: net.minecraft.client.gui.screens.inventory.CraftingScreen)
-[15окт.2024 19:30:48.528] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.inventory.CraftingScreen was not found fastbench.mixins.json:MixinCraftingScreen
-[15окт.2024 19:30:48.620] [main/WARN] [dev.tonimatas.packetfixer.mixins.MixinConfigPlugin/]: You are using connectivity for fix "Badly compressed packet - size of " + X + " is larger than protocol maximum of 8388608" if you have and issue with that delete connectivity.
-[15окт.2024 19:30:48.647] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/integration/MoreRedIntegration (java.lang.ClassNotFoundException: dan200.computercraft.shared.integration.MoreRedIntegration)
-[15окт.2024 19:30:48.649] [main/WARN] [mixin/]: @Mixin target dan200.computercraft.shared.integration.MoreRedIntegration was not found create_central_kitchen.mixins.json:common.computercraft.MoreRedIntegrationMixin
-[15окт.2024 19:30:48.704] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
-[15окт.2024 19:30:48.705] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin
-[15окт.2024 19:30:48.706] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
-[15окт.2024 19:30:48.706] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityAccessor
-[15окт.2024 19:30:48.708] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
-[15окт.2024 19:30:48.709] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityMixin
-[15окт.2024 19:30:48.709] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
-[15окт.2024 19:30:48.710] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin
-[15окт.2024 19:30:48.909] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[15окт.2024 19:30:48.911] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/block/AdditionalPlacementBlock (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.block.AdditionalPlacementBlock)
-[15окт.2024 19:30:48.997] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[15окт.2024 19:30:49.506] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_216202_ in modernfix-forge.mixins.json:perf.tag_id_caching.TagOrElementLocationMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[15окт.2024 19:30:50.893] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (29.62 s after launch)
-[15окт.2024 19:30:51.008] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[15окт.2024 19:30:51.009] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[15окт.2024 19:30:51.129] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[15окт.2024 19:30:51.129] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[15окт.2024 19:30:51.216] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[15окт.2024 19:30:51.216] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[15окт.2024 19:30:51.216] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[17окт.2024 00:00:00.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MikeLane: Stopping the server]
+[17окт.2024 00:00:00.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17окт.2024 00:00:00.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17окт.2024 00:00:00.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Besoreb lost connection: Disconnected
+[17окт.2024 00:00:00.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Besoreb left the game
+[17окт.2024 00:00:00.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17окт.2024 00:00:00.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17окт.2024 00:00:02.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[17окт.2024 00:00:02.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[17окт.2024 00:00:02.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17окт.2024 00:00:02.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[17окт.2024 00:00:02.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[17окт.2024 00:00:02.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[17окт.2024 00:00:02.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[17окт.2024 00:00:02.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[17окт.2024 00:00:02.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[17окт.2024 00:00:02.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[17окт.2024 00:00:02.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[17окт.2024 00:00:02.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/create_dd:ponder
+[17окт.2024 00:00:02.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/dimdungeons:dungeon_dimension
+[17окт.2024 00:00:02.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[17окт.2024 00:00:02.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[17окт.2024 00:00:02.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[17окт.2024 00:00:02.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[17окт.2024 00:00:02.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17окт.2024 00:00:02.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[17окт.2024 00:00:02.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/dimdungeons:build_dimension
+[17окт.2024 00:00:02.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[17окт.2024 00:00:02.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[17окт.2024 00:00:02.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[17окт.2024 00:00:02.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17окт.2024 00:00:02.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[17окт.2024 00:00:02.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[17окт.2024 00:00:02.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17окт.2024 00:00:02.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[17окт.2024 00:00:02.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[17окт.2024 00:00:02.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[17окт.2024 00:00:02.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[17окт.2024 00:00:02.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[17окт.2024 00:00:02.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[17окт.2024 00:00:02.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[17окт.2024 00:00:02.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[17окт.2024 00:00:02.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (ponder): All chunks are saved
+[17окт.2024 00:00:02.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon_dimension): All chunks are saved
+[17окт.2024 00:00:02.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[17окт.2024 00:00:02.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[17окт.2024 00:00:02.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[17окт.2024 00:00:02.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[17окт.2024 00:00:02.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17окт.2024 00:00:02.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[17окт.2024 00:00:02.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (build_dimension): All chunks are saved
+[17окт.2024 00:00:02.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[17окт.2024 00:00:02.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[17окт.2024 00:00:02.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[17окт.2024 00:00:02.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17окт.2024 00:00:03.031] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[17окт.2024 00:00:03.033] [Server thread/INFO] [Framework/]: Unloading server configs...
+[17окт.2024 00:00:03.034] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml

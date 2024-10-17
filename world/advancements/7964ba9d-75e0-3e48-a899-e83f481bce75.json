@@ -380,8 +380,10 @@
       "minecraft:desert": "2024-10-05 20:43:15 +0300",
       "minecraft:deep_frozen_ocean": "2024-10-08 00:19:30 +0300",
       "minecraft:jungle": "2024-10-05 20:50:49 +0300",
+      "minecraft:ocean": "2024-10-16 23:25:41 +0300",
       "minecraft:old_growth_spruce_taiga": "2024-10-08 00:00:17 +0300",
       "minecraft:snowy_beach": "2024-10-07 23:53:40 +0300",
+      "minecraft:warm_ocean": "2024-10-16 23:36:47 +0300",
       "minecraft:old_growth_birch_forest": "2024-10-06 21:35:09 +0300",
       "minecraft:meadow": "2024-10-08 00:03:06 +0300",
       "minecraft:windswept_gravelly_hills": "2024-10-13 16:13:12 +0300",
@@ -399,6 +401,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-10-13 15:37:01 +0300",
+      "cooked_mutton": "2024-10-15 22:16:13 +0300",
       "cooked_beef": "2024-10-07 22:24:01 +0300",
       "baked_potato": "2024-10-06 23:56:38 +0300",
       "cooked_cod": "2024-10-13 15:26:18 +0300",
@@ -407,6 +410,7 @@
       "cookie": "2024-10-05 20:14:48 +0300",
       "glow_berries": "2024-10-05 19:54:58 +0300",
       "melon_slice": "2024-10-05 20:31:01 +0300",
+      "cooked_rabbit": "2024-10-15 22:21:43 +0300",
       "cooked_chicken": "2024-10-14 23:33:59 +0300",
       "enchanted_golden_apple": "2024-10-06 19:37:36 +0300"
     },
@@ -433,15 +437,23 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-10-07 23:43:33 +0300",
+      "minecraft:blaze": "2024-10-15 21:38:57 +0300",
       "minecraft:skeleton": "2024-10-05 19:11:03 +0300",
+      "minecraft:ghast": "2024-10-15 22:07:16 +0300",
       "minecraft:magma_cube": "2024-10-06 20:01:12 +0300",
       "minecraft:spider": "2024-10-05 19:56:21 +0300",
+      "minecraft:piglin_brute": "2024-10-16 19:55:20 +0300",
       "minecraft:creeper": "2024-10-06 19:21:51 +0300",
+      "minecraft:wither": "2024-10-16 23:11:37 +0300",
       "minecraft:slime": "2024-10-05 19:37:27 +0300",
       "quark:forgotten": "2024-10-08 22:55:10 +0300",
       "minecraft:phantom": "2024-10-13 14:33:53 +0300",
+      "minecraft:zombified_piglin": "2024-10-15 21:46:57 +0300",
+      "minecraft:wither_skeleton": "2024-10-15 21:41:11 +0300",
       "minecraft:husk": "2024-10-05 20:48:35 +0300",
       "minecraft:cave_spider": "2024-10-06 21:27:36 +0300",
+      "quark:wraith": "2024-10-16 21:22:43 +0300",
+      "minecraft:piglin": "2024-10-16 19:40:10 +0300",
       "minecraft:enderman": "2024-10-10 21:12:41 +0300",
       "minecraft:stray": "2024-10-13 14:36:12 +0300",
       "minecraft:silverfish": "2024-10-14 21:58:25 +0300",
@@ -503,6 +515,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "glow_berries": "2024-10-05 19:40:54 +0300",
+      "brown_mushroom": "2024-10-15 20:29:35 +0300",
       "sugar_cane": "2024-10-07 22:24:15 +0300",
       "nether_wart": "2024-10-06 23:31:27 +0300",
       "wheat": "2024-10-05 20:35:28 +0300"
@@ -792,6 +805,7 @@
   "repurposed_structures:mineshafts": {
     "criteria": {
       "in_mineshaft_ocean": "2024-10-14 22:26:55 +0300",
+      "in_mineshaft_nether": "2024-10-16 22:45:11 +0300",
       "in_mineshaft_stone": "2024-10-06 20:40:00 +0300"
     },
     "done": false
@@ -1170,9 +1184,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "kill_lich": "2024-10-16 23:56:57 +0300",
       "kill_naga": "2024-10-10 23:39:15 +0300"
     },
-    "done": false
+    "done": true
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
@@ -1237,7 +1252,8 @@
   "obtrophies:all_vanilla_trophies": {
     "criteria": {
       "has_skeleton_trophy": "2024-10-13 16:17:42 +0300",
-      "has_zombie_trophy": "2024-10-14 22:36:34 +0300"
+      "has_zombie_trophy": "2024-10-14 22:36:34 +0300",
+      "has_wither_skeleton_trophy": "2024-10-16 20:40:28 +0300"
     },
     "done": false
   },
@@ -1331,77 +1347,284 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-10-15 20:33:20 +0300"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-10-15 20:35:21 +0300"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-10-15 20:37:15 +0300"
+    },
+    "done": true
+  },
+  "chalk:adventure/get_skeleton_skull": {
+    "criteria": {
+      "slept_in_bed": "2024-10-15 20:44:34 +0300"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2024-10-15 20:53:14 +0300"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_cobweb": "2024-10-15 20:53:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-10-15 21:10:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-10-15 21:38:40 +0300"
+    },
+    "done": true
+  },
+  "endrem:main/evil_eye": {
+    "criteria": {
+      "evil_eye": "2024-10-15 22:30:49 +0300"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:ash_barrens": "2024-10-16 19:35:13 +0300"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:ash_barrens": "2024-10-16 19:35:13 +0300",
+      "incendium:infernal_dunes": "2024-10-16 21:18:51 +0300",
+      "incendium:inverted_forest": "2024-10-16 19:56:19 +0300",
+      "incendium:volcanic_deltas": "2024-10-16 21:18:04 +0300"
+    },
+    "done": false
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2024-10-16 19:35:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-10-16 19:55:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-10-16 19:55:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-10-16 20:18:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-10-16 20:39:47 +0300"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_nether_wasteland": "2024-10-16 20:49:46 +0300"
+    },
+    "done": false
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2024-10-16 21:18:04 +0300"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2024-10-16 21:18:51 +0300"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2024-10-16 21:19:45 +0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2024-10-16 21:30:55 +0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-10-16 21:31:02 +0300"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-10-15 16:14:27 +0300"
+      "log_spam_fixer": "2024-10-16 23:59:47 +0300"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-10-15 16:14:27 +0300"
+      "log_spam_fixer": "2024-10-16 23:59:47 +0300"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-10-15 16:14:27 +0300"
+      "log_spam_fixer": "2024-10-16 23:59:47 +0300"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-10-15 16:14:27 +0300"
+      "log_spam_fixer": "2024-10-16 23:59:47 +0300"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-10-15 16:14:27 +0300"
+      "log_spam_fixer": "2024-10-16 23:59:47 +0300"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-10-15 16:14:27 +0300"
+      "log_spam_fixer": "2024-10-16 23:59:47 +0300"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-10-15 16:14:27 +0300"
+      "log_spam_fixer": "2024-10-16 23:59:47 +0300"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-10-15 16:14:27 +0300"
+      "log_spam_fixer": "2024-10-16 23:59:47 +0300"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-10-15 16:14:27 +0300"
+      "log_spam_fixer": "2024-10-16 23:59:47 +0300"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-10-15 16:14:27 +0300"
+      "log_spam_fixer": "2024-10-16 23:59:47 +0300"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-10-15 16:14:27 +0300"
+      "log_spam_fixer": "2024-10-16 23:59:47 +0300"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-10-15 16:14:27 +0300"
+      "log_spam_fixer": "2024-10-16 23:59:47 +0300"
     },
     "done": false
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2024-10-16 23:56:57 +0300"
+    },
+    "done": false
+  },
+  "betterarcheology:fossil_found": {
+    "criteria": {
+      "betterarcheology:fossil_found": "2024-10-16 23:27:20 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2024-10-16 23:56:57 +0300"
+    },
+    "done": false
+  },
+  "simplyswords:longsword_plague": {
+    "criteria": {
+      "requirement": "2024-10-16 23:11:38 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2024-10-16 23:54:14 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2024-10-16 23:56:57 +0300"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2024-10-16 22:32:10 +0300"
+    },
+    "done": true
+  },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2024-10-16 23:27:48 +0300"
+    },
+    "done": true
+  },
+  "betterarcheology:all_fossils_found": {
+    "criteria": {
+      "betterarcheology:villager_fossil_head": "2024-10-16 23:27:20 +0300"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-10-16 22:39:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-10-16 23:10:42 +0300"
+    },
+    "done": true
+  },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2024-10-16 23:11:39 +0300"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
