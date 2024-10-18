@@ -402,10 +402,13 @@
       "minecraft:magma_cube": "2024-10-16 22:21:26 +0300",
       "minecraft:spider": "2024-10-05 20:19:44 +0300",
       "minecraft:creeper": "2024-10-16 23:52:19 +0300",
+      "quark:forgotten": "2024-10-17 20:46:38 +0300",
       "minecraft:zombified_piglin": "2024-10-11 20:05:11 +0300",
+      "minecraft:witch": "2024-10-17 22:51:35 +0300",
       "minecraft:wither_skeleton": "2024-10-06 22:49:52 +0300",
       "minecraft:cave_spider": "2024-10-06 21:31:00 +0300",
       "minecraft:piglin": "2024-10-09 23:01:27 +0300",
+      "minecraft:silverfish": "2024-10-17 22:41:08 +0300",
       "minecraft:zombie": "2024-10-05 19:16:23 +0300"
     },
     "done": false
@@ -1225,6 +1228,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2024-10-17 20:23:44 +0300",
       "minecraft:bee": "2024-10-13 18:12:34 +0300"
     },
     "done": false
@@ -1367,77 +1371,171 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2024-10-17 20:01:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2024-10-17 20:36:41 +0300"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pieceof_chaos": {
+    "criteria": {
+      "pieceof_chaos_0": "2024-10-17 20:48:47 +0300"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-10-17 19:50:32 +0300"
+      "log_spam_fixer": "2024-10-18 00:01:24 +0300"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-10-17 19:50:32 +0300"
+      "log_spam_fixer": "2024-10-18 00:01:24 +0300"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-10-17 19:50:32 +0300"
+      "log_spam_fixer": "2024-10-18 00:01:24 +0300"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-10-17 19:50:32 +0300"
+      "log_spam_fixer": "2024-10-18 00:01:24 +0300"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-10-17 19:50:32 +0300"
+      "log_spam_fixer": "2024-10-18 00:01:24 +0300"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-10-17 19:50:32 +0300"
+      "log_spam_fixer": "2024-10-18 00:01:24 +0300"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-10-17 19:50:32 +0300"
+      "log_spam_fixer": "2024-10-18 00:01:24 +0300"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-10-17 19:50:32 +0300"
+      "log_spam_fixer": "2024-10-18 00:01:24 +0300"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-10-17 19:50:32 +0300"
+      "log_spam_fixer": "2024-10-18 00:01:24 +0300"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-10-17 19:50:32 +0300"
+      "log_spam_fixer": "2024-10-18 00:01:24 +0300"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-10-17 19:50:32 +0300"
+      "log_spam_fixer": "2024-10-18 00:01:24 +0300"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-10-17 19:50:32 +0300"
+      "log_spam_fixer": "2024-10-18 00:01:24 +0300"
     },
     "done": false
+  },
+  "create_enchantment_industry:a_shower_experience": {
+    "criteria": {
+      "builtin": "2024-10-17 23:57:47 +0300"
+    },
+    "done": true
+  },
+  "totw_modded:regular_tower": {
+    "criteria": {
+      "regular": "2024-10-17 22:08:29 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_planks": "2024-10-17 22:48:39 +0300",
+      "canopy_stairs": "2024-10-17 22:48:42 +0300",
+      "canopy_wood": "2024-10-17 22:48:33 +0300",
+      "hollow_oak_sapling": "2024-10-17 22:40:32 +0300",
+      "canopy_log": "2024-10-17 22:48:33 +0300"
+    },
+    "done": false
+  },
+  "create_enchantment_industry:spirit_taking": {
+    "criteria": {
+      "builtin": "2024-10-17 23:45:44 +0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2024-10-17 22:26:11 +0300"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2024-10-17 22:58:39 +0300"
+    },
+    "done": true
+  },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2024-10-17 22:29:21 +0300"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:gone_with_the_foil": {
+    "criteria": {
+      "builtin": "2024-10-17 23:57:45 +0300"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experimental": {
+    "criteria": {
+      "builtin": "2024-10-17 23:45:44 +0300"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2024-10-17 22:49:52 +0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2024-10-17 22:42:49 +0300"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2024-10-17 22:58:39 +0300"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
