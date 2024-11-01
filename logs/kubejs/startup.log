@@ -1,13 +1,13 @@
-[21:04:19] [INIT] KubeJS 2001.6.5-build.14; MC 2001 forge
-[21:04:19] [INIT] Loaded plugins:
-[21:04:19] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[21:04:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[21:04:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[21:04:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[21:04:19] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
-[21:04:19] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[21:04:19] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[21:04:20] [INFO] Loaded script startup_scripts:fluids.js in 0.223 s
-[21:04:20] [INFO] Loaded script startup_scripts:launch.js in 0.015 s
-[21:04:20] [INFO] Loaded script startup_scripts:worldgenRemove.js in 0.001 s
-[21:04:20] [INFO] Loaded 3/3 KubeJS startup scripts in 1.584 s with 0 errors and 0 warnings
+[18:39:36] [INIT] KubeJS 2001.6.5-build.14; MC 2001 forge
+[18:39:36] [INIT] Loaded plugins:
+[18:39:36] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[18:39:36] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[18:39:36] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[18:39:36] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[18:39:36] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[18:39:36] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[18:39:36] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[18:39:37] [INFO] Loaded script startup_scripts:fluids.js in 0.117 s
+[18:39:37] [INFO] Loaded script startup_scripts:launch.js in 0.015 s
+[18:39:37] [INFO] Loaded script startup_scripts:worldgenRemove.js in 0.0 s
+[18:39:37] [INFO] Loaded 3/3 KubeJS startup scripts in 0.615 s with 0 errors and 0 warnings

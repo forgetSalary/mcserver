@@ -369,29 +369,50 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-10-20 19:52:06 +0300",
+      "minecraft:mushroom_fields": "2024-10-31 19:53:47 +0300",
+      "minecraft:taiga": "2024-10-31 19:43:47 +0300",
       "minecraft:deep_ocean": "2024-10-20 19:53:20 +0300",
+      "minecraft:frozen_river": "2024-10-31 19:41:51 +0300",
       "minecraft:cherry_grove": "2024-10-20 20:14:02 +0300",
+      "minecraft:sunflower_plains": "2024-10-31 22:01:38 +0300",
       "minecraft:birch_forest": "2024-10-05 22:25:07 +0300",
+      "minecraft:windswept_hills": "2024-10-31 18:56:09 +0300",
       "minecraft:bamboo_jungle": "2024-10-05 19:16:18 +0300",
       "minecraft:wooded_badlands": "2024-10-05 21:22:45 +0300",
+      "minecraft:badlands": "2024-10-31 19:09:40 +0300",
+      "minecraft:savanna_plateau": "2024-10-31 19:31:57 +0300",
       "minecraft:beach": "2024-10-20 19:55:01 +0300",
       "minecraft:dark_forest": "2024-10-06 00:37:34 +0300",
+      "minecraft:stony_peaks": "2024-10-31 21:30:54 +0300",
       "minecraft:mangrove_swamp": "2024-10-05 20:47:27 +0300",
       "minecraft:sparse_jungle": "2024-10-05 19:51:51 +0300",
       "minecraft:river": "2024-10-05 19:20:39 +0300",
       "minecraft:lukewarm_ocean": "2024-10-20 19:54:32 +0300",
       "minecraft:stony_shore": "2024-10-20 20:13:37 +0300",
+      "minecraft:snowy_plains": "2024-10-31 18:56:15 +0300",
       "minecraft:dripstone_caves": "2024-10-05 23:09:58 +0300",
+      "minecraft:snowy_taiga": "2024-10-31 19:42:57 +0300",
       "minecraft:swamp": "2024-10-20 20:17:34 +0300",
+      "minecraft:grove": "2024-10-31 21:15:32 +0300",
+      "minecraft:jagged_peaks": "2024-10-31 21:24:12 +0300",
       "minecraft:cold_ocean": "2024-10-20 19:53:00 +0300",
       "minecraft:forest": "2024-10-20 19:50:19 +0300",
       "minecraft:lush_caves": "2024-10-19 23:55:48 +0300",
+      "minecraft:deep_cold_ocean": "2024-10-31 18:57:23 +0300",
+      "minecraft:frozen_ocean": "2024-10-31 18:56:41 +0300",
       "minecraft:desert": "2024-10-05 21:22:42 +0300",
+      "minecraft:deep_frozen_ocean": "2024-10-31 19:53:40 +0300",
+      "minecraft:windswept_forest": "2024-10-31 18:57:32 +0300",
       "minecraft:jungle": "2024-10-07 20:42:30 +0300",
       "minecraft:ocean": "2024-10-20 19:52:47 +0300",
       "minecraft:old_growth_spruce_taiga": "2024-10-20 19:50:55 +0300",
+      "minecraft:snowy_beach": "2024-10-31 19:40:19 +0300",
+      "minecraft:windswept_savanna": "2024-10-31 18:59:23 +0300",
       "minecraft:deep_lukewarm_ocean": "2024-10-20 19:56:56 +0300",
+      "minecraft:frozen_peaks": "2024-10-31 21:21:24 +0300",
       "minecraft:old_growth_birch_forest": "2024-10-06 00:37:33 +0300",
+      "minecraft:meadow": "2024-10-31 21:54:18 +0300",
+      "minecraft:windswept_gravelly_hills": "2024-10-31 18:54:14 +0300",
       "minecraft:savanna": "2024-10-27 19:57:32 +0300",
       "minecraft:plains": "2024-10-05 21:26:09 +0300"
     },
@@ -427,7 +448,9 @@
       "minecraft:zombified_piglin": "2024-10-11 20:05:11 +0300",
       "minecraft:witch": "2024-10-17 22:51:35 +0300",
       "minecraft:wither_skeleton": "2024-10-06 22:49:52 +0300",
+      "minecraft:husk": "2024-10-31 21:26:25 +0300",
       "minecraft:ender_dragon": "2024-10-27 23:11:15 +0300",
+      "minecraft:shulker": "2024-10-29 20:11:46 +0300",
       "minecraft:cave_spider": "2024-10-06 21:31:00 +0300",
       "quark:wraith": "2024-10-18 21:08:46 +0300",
       "minecraft:piglin": "2024-10-09 23:01:27 +0300",
@@ -437,6 +460,7 @@
       "minecraft:vex": "2024-10-28 22:56:21 +0300",
       "minecraft:zombie": "2024-10-05 19:16:23 +0300",
       "quark:foxhound": "2024-10-18 20:38:58 +0300",
+      "minecraft:drowned": "2024-10-31 21:32:37 +0300",
       "minecraft:zombie_villager": "2024-10-20 00:10:26 +0300"
     },
     "done": false
@@ -1029,6 +1053,7 @@
     "criteria": {
       "in_mineshaft_end": "2024-10-27 23:27:32 +0300",
       "in_mineshaft_nether": "2024-10-16 22:43:10 +0300",
+      "in_mineshaft_savanna": "2024-10-31 22:18:43 +0300",
       "in_mineshaft_stone": "2024-10-08 19:14:32 +0300"
     },
     "done": false
@@ -1900,77 +1925,287 @@
     },
     "done": true
   },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_end": "2024-10-29 19:57:41 +0300"
+    },
+    "done": false
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-10-29 20:10:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-10-29 20:14:50 +0300"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2024-10-29 20:25:31 +0300"
+    },
+    "done": true
+  },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2024-10-29 20:25:31 +0300"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2024-10-29 20:25:32 +0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:alteration_table": {
+    "criteria": {
+      "has_alteration_table": "2024-10-29 20:26:37 +0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2024-10-29 20:44:47 +0300"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2024-10-30 18:45:46 +0300"
+    },
+    "done": true
+  },
+  "create_connected:brass_gearbox": {
+    "criteria": {
+      "0": "2024-10-30 20:16:33 +0300"
+    },
+    "done": true
+  },
+  "totw_modded:ice_tower": {
+    "criteria": {
+      "ice": "2024-10-31 18:56:17 +0300"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_taiga": "2024-10-31 18:58:12 +0300"
+    },
+    "done": false
+  },
+  "repurposed_structures:city_overworld": {
+    "criteria": {
+      "city_overworld": "2024-10-31 19:33:50 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everbright": "2024-10-31 19:39:08 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2024-10-31 19:39:08 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everbright": "2024-10-31 19:39:08 +0300"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2024-10-31 19:40:19 +0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-10-31 19:45:12 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2024-10-31 19:50:30 +0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-10-31 19:58:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2024-10-31 20:00:06 +0300"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-10-28 23:14:48 +0300"
+      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-10-28 23:14:48 +0300"
+      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-10-28 23:14:48 +0300"
+      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-10-28 23:14:48 +0300"
+      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-10-28 23:14:48 +0300"
+      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-10-28 23:14:48 +0300"
+      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-10-28 23:14:48 +0300"
+      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-10-28 23:14:48 +0300"
+      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-10-28 23:14:48 +0300"
+      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-10-28 23:14:48 +0300"
+      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-10-28 23:14:48 +0300"
+      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-10-28 23:14:48 +0300"
+      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
     },
     "done": false
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2024-10-31 21:54:57 +0300"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2024-10-31 21:17:11 +0300"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2024-10-31 21:52:24 +0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2024-10-31 22:09:27 +0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-10-31 21:15:42 +0300"
+    },
+    "done": true
+  },
+  "totw_modded:jungle_tower": {
+    "criteria": {
+      "jungle": "2024-10-31 21:38:50 +0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-10-31 21:26:08 +0300"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_03": "2024-10-31 21:40:53 +0300"
+    },
+    "done": true
+  },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2024-10-31 21:34:26 +0300"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2024-10-31 21:00:21 +0300"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-10-31 21:53:30 +0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2024-10-31 21:44:33 +0300"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2024-10-31 22:15:42 +0300"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2024-10-31 21:53:27 +0300"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
