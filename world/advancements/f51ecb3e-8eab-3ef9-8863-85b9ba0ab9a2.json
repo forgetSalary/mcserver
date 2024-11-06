@@ -368,6 +368,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-11-03 20:43:58 +0300",
       "minecraft:old_growth_pine_taiga": "2024-10-20 19:52:06 +0300",
       "minecraft:mushroom_fields": "2024-10-31 19:53:47 +0300",
       "minecraft:taiga": "2024-10-31 19:43:47 +0300",
@@ -399,6 +400,7 @@
       "minecraft:forest": "2024-10-20 19:50:19 +0300",
       "minecraft:lush_caves": "2024-10-19 23:55:48 +0300",
       "minecraft:deep_cold_ocean": "2024-10-31 18:57:23 +0300",
+      "minecraft:ice_spikes": "2024-11-04 19:02:30 +0300",
       "minecraft:frozen_ocean": "2024-10-31 18:56:41 +0300",
       "minecraft:desert": "2024-10-05 21:22:42 +0300",
       "minecraft:deep_frozen_ocean": "2024-10-31 19:53:40 +0300",
@@ -435,6 +437,7 @@
       "minecraft:blaze": "2024-10-06 23:04:20 +0300",
       "minecraft:pillager": "2024-10-27 16:31:29 +0300",
       "minecraft:skeleton": "2024-10-06 00:45:47 +0300",
+      "minecraft:ravager": "2024-11-02 22:03:21 +0300",
       "minecraft:ghast": "2024-10-19 22:46:53 +0300",
       "minecraft:hoglin": "2024-10-18 21:13:37 +0300",
       "minecraft:vindicator": "2024-10-27 19:59:56 +0300",
@@ -442,6 +445,7 @@
       "minecraft:spider": "2024-10-05 20:19:44 +0300",
       "minecraft:piglin_brute": "2024-10-18 21:17:24 +0300",
       "minecraft:creeper": "2024-10-16 23:52:19 +0300",
+      "minecraft:wither": "2024-11-02 21:17:53 +0300",
       "minecraft:evoker": "2024-10-28 22:56:24 +0300",
       "quark:forgotten": "2024-10-17 20:46:38 +0300",
       "minecraft:phantom": "2024-10-27 21:07:46 +0300",
@@ -486,19 +490,30 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-10-19 22:44:02 +0300",
+      "chicken": "2024-11-02 17:38:06 +0300",
+      "honey_bottle": "2024-11-04 21:20:41 +0300",
       "cooked_beef": "2024-10-10 23:17:06 +0300",
       "chorus_fruit": "2024-10-27 22:52:58 +0300",
       "baked_potato": "2024-10-06 21:21:49 +0300",
+      "beef": "2024-11-01 20:06:24 +0300",
       "porkchop": "2024-10-19 22:37:02 +0300",
+      "tropical_fish": "2024-11-01 19:48:05 +0300",
       "apple": "2024-10-05 20:49:38 +0300",
+      "potato": "2024-11-01 19:59:01 +0300",
       "cooked_cod": "2024-10-19 22:20:42 +0300",
       "pumpkin_pie": "2024-10-07 23:26:12 +0300",
+      "mutton": "2024-11-01 20:06:59 +0300",
+      "pufferfish": "2024-11-04 21:33:16 +0300",
       "bread": "2024-10-05 22:30:10 +0300",
       "golden_apple": "2024-10-06 23:03:20 +0300",
       "cookie": "2024-10-16 22:49:46 +0300",
       "rotten_flesh": "2024-10-16 22:37:07 +0300",
+      "glow_berries": "2024-11-01 20:06:26 +0300",
+      "dried_kelp": "2024-11-02 18:20:43 +0300",
+      "salmon": "2024-11-02 15:09:41 +0300",
       "melon_slice": "2024-10-05 19:34:15 +0300",
       "golden_carrot": "2024-10-05 22:30:12 +0300",
+      "beetroot": "2024-11-02 17:46:16 +0300",
       "cooked_rabbit": "2024-10-20 20:09:37 +0300",
       "cooked_chicken": "2024-10-17 16:17:45 +0300",
       "enchanted_golden_apple": "2024-10-06 21:30:27 +0300",
@@ -535,7 +550,9 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
-      "in_pyramid_jungle": "2024-10-05 20:10:24 +0300"
+      "in_pyramid_jungle": "2024-10-05 20:10:24 +0300",
+      "in_pyramid_badlands": "2024-11-02 21:10:23 +0300",
+      "in_pyramid_snowy": "2024-11-04 19:02:47 +0300"
     },
     "done": false
   },
@@ -1296,7 +1313,8 @@
       "minecraft:mule": "2024-10-27 20:24:38 +0300",
       "minecraft:cow": "2024-10-17 20:23:44 +0300",
       "minecraft:horse": "2024-10-27 20:33:31 +0300",
-      "minecraft:bee": "2024-10-13 18:12:34 +0300"
+      "minecraft:bee": "2024-10-13 18:12:34 +0300",
+      "minecraft:chicken": "2024-11-04 19:39:48 +0300"
     },
     "done": false
   },
@@ -1364,6 +1382,7 @@
     "criteria": {
       "incendium:ash_barrens": "2024-10-16 22:26:14 +0300",
       "incendium:weeping_valley": "2024-10-18 22:25:05 +0300",
+      "incendium:quartz_flats": "2024-11-02 17:40:34 +0300",
       "incendium:inverted_forest": "2024-10-18 20:39:24 +0300"
     },
     "done": false
@@ -1867,7 +1886,8 @@
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
-      "charm_collector_0": "2024-10-27 22:13:04 +0300"
+      "charm_collector_0": "2024-10-27 22:13:04 +0300",
+      "charm_collector_3": "2024-11-03 19:37:33 +0300"
     },
     "done": false
   },
@@ -2017,9 +2037,10 @@
   },
   "blue_skies:thinking_with_portals": {
     "criteria": {
-      "enter_everbright": "2024-10-31 19:39:08 +0300"
+      "enter_everbright": "2024-10-31 19:39:08 +0300",
+      "enter_everdawn": "2024-11-01 14:53:23 +0300"
     },
-    "done": false
+    "done": true
   },
   "dungeons_arise:find_fishing_hut": {
     "criteria": {
@@ -2051,81 +2072,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
-      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
+      "squireofthe_dark_lord_6": "2024-10-31 21:00:21 +0300"
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "dungeons_arise:find_abandoned_temple": {
     "criteria": {
-      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 23:14:13 +0300"
-    },
-    "done": false
-  },
-  "dungeons_arise:find_thornborn_towers": {
-    "criteria": {
-      "location0": "2024-10-31 21:54:57 +0300"
+      "location0": "2024-10-31 21:15:42 +0300"
     },
     "done": true
   },
@@ -2135,39 +2090,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:pumpkin_sir": {
-    "criteria": {
-      "pumpkin_sir_0": "2024-10-31 21:52:24 +0300"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_coliseum": {
-    "criteria": {
-      "location0": "2024-10-31 22:09:27 +0300"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2024-10-31 21:15:42 +0300"
-    },
-    "done": true
-  },
-  "totw_modded:jungle_tower": {
-    "criteria": {
-      "jungle": "2024-10-31 21:38:50 +0300"
-    },
-    "done": true
-  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2024-10-31 21:26:08 +0300"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/root": {
-    "criteria": {
-      "grave_03": "2024-10-31 21:40:53 +0300"
     },
     "done": true
   },
@@ -2177,15 +2102,15 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:squireofthe_dark_lord": {
+  "totw_modded:jungle_tower": {
     "criteria": {
-      "squireofthe_dark_lord_6": "2024-10-31 21:00:21 +0300"
+      "jungle": "2024-10-31 21:38:50 +0300"
     },
-    "done": false
+    "done": true
   },
-  "born_in_chaos_v1:exorcism": {
+  "graveyard:graveyard/root": {
     "criteria": {
-      "exorcism_0": "2024-10-31 21:53:30 +0300"
+      "grave_03": "2024-10-31 21:40:53 +0300"
     },
     "done": true
   },
@@ -2195,15 +2120,399 @@
     },
     "done": true
   },
-  "idas:castle": {
+  "born_in_chaos_v1:pumpkin_sir": {
     "criteria": {
-      "in_castle": "2024-10-31 22:15:42 +0300"
+      "pumpkin_sir_0": "2024-10-31 21:52:24 +0300"
     },
     "done": true
   },
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "skeleton_creeper": "2024-10-31 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-10-31 21:53:30 +0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2024-10-31 21:54:57 +0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2024-10-31 22:09:27 +0300"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2024-10-31 22:15:42 +0300"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/haunted_house": {
+    "criteria": {
+      "haunted_house": "2024-11-01 14:20:12 +0300"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2024-11-01 14:25:47 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/enter": {
+    "criteria": {
+      "enter_everdawn": "2024-11-01 14:53:23 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:enter_blinding_dungeon": {
+    "criteria": {
+      "entered_everdawn_blinding_dungeon": "2024-11-01 14:54:08 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/kill_bug": {
+    "criteria": {
+      "kill_emberback": "2024-11-01 14:55:07 +0300"
+    },
+    "done": false
+  },
+  "create_dd:smoked_planks": {
+    "criteria": {
+      "0": "2024-11-01 15:50:50 +0300"
+    },
+    "done": true
+  },
+  "create_dd:ember_alloy": {
+    "criteria": {
+      "0": "2024-11-01 15:51:03 +0300"
+    },
+    "done": true
+  },
+  "create_dd:infernal_mechanism": {
+    "criteria": {
+      "0": "2024-11-01 15:59:15 +0300"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2024-11-01 16:19:30 +0300"
+    },
+    "done": true
+  },
+  "moped:moped_key_adv": {
+    "criteria": {
+      "moped_key_adv": "2024-11-01 19:53:19 +0300"
+    },
+    "done": true
+  },
+  "moped:copper_moped_adv": {
+    "criteria": {
+      "copper_moped_adv": "2024-11-01 19:53:19 +0300"
+    },
+    "done": true
+  },
+  "moped:moped_honk": {
+    "criteria": {
+      "moped_honk": "2024-11-01 19:53:30 +0300"
+    },
+    "done": true
+  },
+  "create_dd:industrial_casing": {
+    "criteria": {
+      "0": "2024-11-01 20:11:13 +0300"
+    },
+    "done": true
+  },
+  "create_dd:industrial_fan": {
+    "criteria": {
+      "0": "2024-11-01 20:11:20 +0300"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2024-11-01 20:41:26 +0300"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2024-11-01 20:43:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-11-02 14:50:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-11-02 14:57:21 +0300"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-11-02 15:10:28 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "cooked_venison": "2024-11-02 17:39:06 +0300"
+    },
+    "done": false
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2024-11-02 17:40:34 +0300"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2024-11-02 17:41:20 +0300"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/ghast_buster": {
+    "criteria": {
+      "kill_ghast": "2024-11-02 17:41:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-11-02 17:42:17 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "vegetable_noodles": "2024-11-02 17:46:36 +0300"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-11-02 18:32:52 +0300"
+    },
+    "done": true
+  },
+  "ars_elemental:curio_bag": {
+    "criteria": {
+      "has_curio_bag": "2024-11-02 21:02:05 +0300"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-11-02 22:08:06 +0300"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2024-11-03 19:36:47 +0300"
+    },
+    "done": true
+  },
+  "betterarcheology:artifact_shards": {
+    "criteria": {
+      "has_shards": "2024-11-03 19:42:21 +0300"
+    },
+    "done": true
+  },
+  "idas:hunters_cabin": {
+    "criteria": {
+      "in_hunters_cabin": "2024-11-03 19:49:18 +0300"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2024-11-03 19:52:14 +0300"
+    },
+    "done": true
+  },
+  "repurposed_structures:monuments": {
+    "criteria": {
+      "in_monument_icy": "2024-11-03 19:58:53 +0300"
+    },
+    "done": false
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "plateau": "2024-11-03 20:29:01 +0300"
+    },
+    "done": false
+  },
+  "idas:tinkers_citadel": {
+    "criteria": {
+      "in_tinkers_citadel": "2024-11-03 20:47:44 +0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2024-11-03 21:25:53 +0300"
+    },
+    "done": true
+  },
+  "create:extendo_grip": {
+    "criteria": {
+      "0": "2024-11-03 21:28:33 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "stuffed_pumpkin": "2024-11-03 21:33:05 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2024-11-03 21:34:34 +0300"
+    },
+    "done": true
+  },
+  "simplyswords:longsword_plague": {
+    "criteria": {
+      "requirement": "2024-11-04 17:30:28 +0300"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-11-04 17:58:54 +0300"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2024-11-04 19:06:05 +0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/deathworm_egg": {
+    "criteria": {
+      "egg": "2024-11-04 19:15:51 +0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-04 19:28:01 +0300"
+    },
+    "done": true
+  },
+  "idas:winter_wagon": {
+    "criteria": {
+      "in_winter_wagon": "2024-11-04 19:37:29 +0300"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2024-11-04 19:57:35 +0300"
+    },
+    "done": true
+  },
+  "create_dd:bronze": {
+    "criteria": {
+      "0": "2024-11-04 20:01:14 +0300"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-04 22:04:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-04 22:04:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-04 22:04:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-04 22:04:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-04 22:04:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-04 22:04:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-04 22:04:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-04 22:04:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-04 22:04:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-04 22:04:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-04 22:04:51 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-04 22:04:51 +0300"
+    },
+    "done": false
+  },
+  "create_dd:steel_casing": {
+    "criteria": {
+      "0": "2024-11-04 20:15:01 +0300"
     },
     "done": true
   },
