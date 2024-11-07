@@ -411,6 +411,7 @@
       "cooked_beef": "2024-10-07 22:24:01 +0300",
       "chorus_fruit": "2024-10-31 18:51:58 +0300",
       "baked_potato": "2024-10-06 23:56:38 +0300",
+      "spider_eye": "2024-11-06 21:20:11 +0300",
       "cooked_cod": "2024-10-13 15:26:18 +0300",
       "bread": "2024-10-05 19:04:55 +0300",
       "golden_apple": "2024-10-05 21:07:40 +0300",
@@ -828,6 +829,7 @@
   "repurposed_structures:mineshafts": {
     "criteria": {
       "in_mineshaft_ocean": "2024-10-14 22:26:55 +0300",
+      "in_mineshaft_end": "2024-11-06 21:48:46 +0300",
       "in_mineshaft_nether": "2024-10-16 22:45:11 +0300",
       "in_mineshaft_stone": "2024-10-06 20:40:00 +0300"
     },
@@ -1873,87 +1875,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "lootr:1shulker": {
     "criteria": {
-      "log_spam_fixer": "2024-10-31 21:23:43 +0300"
+      "opened_shulker": "2024-10-31 19:03:07 +0300"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 21:23:43 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 21:23:43 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 21:23:43 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 21:23:43 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 21:23:43 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 21:23:43 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 21:23:43 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 21:23:43 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 21:23:43 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 21:23:43 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-10-31 21:23:43 +0300"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2024-10-31 19:03:36 +0300"
-    },
-    "done": true
-  },
-  "lootr:1shulker": {
-    "criteria": {
-      "opened_shulker": "2024-10-31 19:03:07 +0300"
     },
     "done": true
   },
@@ -1968,6 +1898,96 @@
       "in_ruined_portal_end": "2024-10-31 21:22:08 +0300"
     },
     "done": true
+  },
+  "moped:moped_key_adv": {
+    "criteria": {
+      "moped_key_adv": "2024-11-06 20:57:57 +0300"
+    },
+    "done": true
+  },
+  "betterarcheology:artifact_shards": {
+    "criteria": {
+      "has_shards": "2024-11-06 20:57:57 +0300"
+    },
+    "done": true
+  },
+  "moped:copper_moped_adv": {
+    "criteria": {
+      "copper_moped_adv": "2024-11-06 20:57:57 +0300"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-06 22:01:30 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-06 22:01:30 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-06 22:01:30 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-06 22:01:30 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-06 22:01:30 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-06 22:01:30 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-06 22:01:30 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-06 22:01:30 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-06 22:01:30 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-06 22:01:30 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-06 22:01:30 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-06 22:01:30 +0300"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
