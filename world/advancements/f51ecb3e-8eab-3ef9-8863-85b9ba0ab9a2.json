@@ -975,6 +975,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "rice": "2024-10-07 23:24:06 +0300",
+      "brown_mushroom": "2024-11-08 20:39:35 +0300",
       "nether_wart": "2024-10-06 23:54:53 +0300"
     },
     "done": false
@@ -2450,81 +2451,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "dungeons_arise:find_aviary": {
     "criteria": {
-      "log_spam_fixer": "2024-11-06 23:55:47 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-06 23:55:47 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-06 23:55:47 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-06 23:55:47 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-06 23:55:47 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-06 23:55:47 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-06 23:55:47 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-06 23:55:47 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-06 23:55:47 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-06 23:55:47 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-06 23:55:47 +0300"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-06 23:55:47 +0300"
-    },
-    "done": false
-  },
-  "deeperdarker:main/root": {
-    "criteria": {
-      "deep_dark": "2024-11-06 23:06:32 +0300"
+      "location0": "2024-11-06 21:29:48 +0300"
     },
     "done": true
   },
@@ -2534,15 +2463,39 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2024-11-06 21:46:08 +0300"
+    },
+    "done": true
+  },
+  "ars_elemental:summon_strider": {
+    "criteria": {
+      "summon_strider": "2024-11-06 21:56:59 +0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2024-11-06 22:09:51 +0300"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/tame_cockatrice": {
     "criteria": {
       "tame_rat": "2024-11-06 22:09:54 +0300"
     },
     "done": true
   },
-  "dungeons_arise:find_aviary": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "location0": "2024-11-06 21:29:48 +0300"
+      "avoid_vibration": "2024-11-06 22:24:51 +0300"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-11-06 23:06:32 +0300"
     },
     "done": true
   },
@@ -2558,9 +2511,9 @@
     },
     "done": true
   },
-  "ars_elemental:summon_strider": {
+  "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
-      "summon_strider": "2024-11-06 21:56:59 +0300"
+      "fighting_nightmares_0": "2024-11-06 23:52:09 +0300"
     },
     "done": true
   },
@@ -2570,33 +2523,87 @@
     },
     "done": true
   },
-  "dungeons_arise:find_heavenly_challenger": {
-    "criteria": {
-      "location0": "2024-11-06 21:46:08 +0300"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2024-11-06 22:24:51 +0300"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2024-11-06 23:52:09 +0300"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/rotten_egg": {
-    "criteria": {
-      "bestiary": "2024-11-06 22:09:51 +0300"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
       "junior_summoner_0": "2024-11-06 23:54:30 +0300"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-08 23:57:32 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-08 23:57:32 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-08 23:57:32 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-08 23:57:32 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-08 23:57:32 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-08 23:57:32 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-08 23:57:32 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-08 23:57:32 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-08 23:57:32 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-08 23:57:32 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-08 23:57:32 +0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-08 23:57:32 +0300"
+    },
+    "done": false
+  },
+  "farmersdelight:main/place_organic_compost": {
+    "criteria": {
+      "place_organic_compost": "2024-11-08 20:39:20 +0300"
     },
     "done": true
   },
